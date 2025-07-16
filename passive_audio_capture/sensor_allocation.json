@@ -1,0 +1,21 @@
+[
+    {
+      "sensor_id": 6,
+      "sensor_type": "large",
+      "pi_id": "pi00030",
+      "experiment_group": "control",
+      "force": "3 N",
+      "location_from_left": "53 cm",
+      "batsound_id": "Batsound_1"
+    },
+    {
+      "sensor_id": 5,
+      "sensor_type": "large",
+      "pi_id": "pi00030",
+      "experiment_group": "pest",
+      "force": "3 N",
+      "location_from_left": "53 cm",
+      "batsound_id": "Batsound_2"
+    }
+  ]
+  
