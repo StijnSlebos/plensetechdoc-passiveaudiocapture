@@ -1,0 +1,29 @@
+{
+    "username": "plense",
+    "password": "Plantenn@2022",
+    "audio_file_prefix": "audio_",
+    "local_storage_path": "C:\\Users\\StijnSlebos\\Downloads\\run4_scp",
+    "remote_storage_path": "/home/plense/passive_sensor_data/fetch_test",
+    "rpi_nodes": [  
+        {
+            "name": "plensepi00025",
+            "ip_address": "192.168.0.87", 
+            "port": 5000
+        },
+        {
+            "name": "plensepi00029",
+            "ip_address": "192.168.0.225", 
+            "port": 5001
+        },
+        {
+            "name": "plensepi00030",
+            "ip_address": "192.168.0.40",
+            "port": 5000
+        }
+    ],
+    "rpi_demo_node": {
+        "name": "plensepi00029",
+        "ip_address": "192.168.0.225", 
+        "port": 5001
+    }
+}
