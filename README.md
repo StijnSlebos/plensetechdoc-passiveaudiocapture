@@ -131,7 +131,7 @@ The capture manager is the interface that is built to efficiently stream both ba
 
 The capture class is the basic stripped down element that interfaces an audio capture device, in this case the batsound adc.
 
-[Running as a service](assets/running_as_a_service.md)
+[Running as a service](assets/Running%20as%20a%20service.md)
 
 ## **Using the setup in Office**
 
