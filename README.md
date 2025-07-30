@@ -77,7 +77,7 @@ if __name__ == "__main__":
     "username": "plense",
     "password": "Plantenn@2022",
     "audio_file_prefix": "audio_",
-    "local_storage_path": "C:\\Users\\StijnSlebos\\Downloads\\run4_scp",
+    "local_storage_path": "C:\\Users\\Stijn\\run",
     "remote_storage_path": "/home/plense/passive_sensor_data/fetch_test",
     "rpi_nodes": [  
         {
